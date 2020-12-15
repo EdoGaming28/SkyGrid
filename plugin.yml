@@ -1,0 +1,12 @@
+---
+name: SkyGrid
+description: Survival in Acid island
+author: EdoGaming
+main: skintrphoenix\AcidIsland\AcidIsland
+version: 1.0
+api: [1.2.0, 2.0.0, 3.0.0, 4.0.0]
+permissions:
+  AcidIsland.interaction:
+    description: izinkan player untuk berinteraksi di pulau orang tanpa harus jadi 1 pulau
+    default: op
+...
