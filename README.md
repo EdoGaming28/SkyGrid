@@ -1,2 +1,0 @@
-# SkyGrid
-Survive on SkyGrid
